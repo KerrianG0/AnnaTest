@@ -9,3 +9,7 @@ Cette exploration doit permettre de réviser
 - [ ] Emmet
 Mais également découvrir le fonctionnement de git.
 ![](https://www.01gifs.com/smileys/reflexion/1.gif)
+    <body>
+<div id="DigitalCLOCK" class="clock" onload="showTime()"></div>
+<script src="index.js"></script>
+</body>
